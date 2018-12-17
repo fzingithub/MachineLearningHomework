@@ -1,0 +1,10 @@
+htfcss: cmtt font-family: monospace;
+htfcss: cmbx  font-weight: bold;
+htfcss: cmbxsl  font-weight: bold; font-style: oblique;
+htfcss: cmmi font-style: italic;
+htfcss: cmmib font-style: italic; font-weight: bold;
+File: main.html
+File: main.css
+File: main.tmp
+Font_Class(172,""): 
+Font_Class(52,""): 
